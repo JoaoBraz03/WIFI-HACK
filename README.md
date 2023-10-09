@@ -23,6 +23,6 @@ While both jammers and deauth attacks can disrupt wireless communication, they a
 
 6.Select the WIFI, go to 'ATTACK' and chose 'Deauth'.
 
-#Link for the things you need
+# Link for the things you need
 
 https://drive.google.com/file/u/1/d/1PnKHst-HrBz5jXyzCzGP5QsnbE53p--U/view
