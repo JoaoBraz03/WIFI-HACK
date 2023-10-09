@@ -17,4 +17,6 @@ https://drive.google.com/file/d/1PnKHst-HrBz5jXyzCzGP5QsnbE53p--U/view
 
 4.It will creat a wifi access point called "pwned" and the password is "deauhter".
 
-5.Go to your broser and search for IP of the access point and you are done.
+5.Go to your broser and search for IP of the access point.
+
+6.Select the WIFI, go to 'ATTACK' and chose 'Deauth'.
