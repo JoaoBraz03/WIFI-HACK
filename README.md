@@ -7,7 +7,7 @@ In this project I gonna teach you how to use the NODE MCU and turn it into a wif
 
  # Deauther X Jammer
 
-while both jammers and deauth attacks can disrupt wireless communication, they are used for different purposes and have different legal implications. Jammers are generally illegal and used to block various wireless signals, while deauth attacks are a specific technique used to test and secure Wi-Fi networks, often in ethical hacking scenarios. It's important to note that using either of these tools or techniques without proper authorization can be illegal and unethical.
+While both jammers and deauth attacks can disrupt wireless communication, they are used for different purposes and have different legal implications. Jammers are generally illegal and used to block various wireless signals, while deauth attacks are a specific technique used to test and secure Wi-Fi networks, often in ethical hacking scenarios. It's important to note that using either of these tools or techniques without proper authorization can be illegal and unethical.
 
 # Steps
 
