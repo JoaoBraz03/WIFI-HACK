@@ -2,7 +2,7 @@
 # Wifi Jammer with ESP2866
 
 
-A WiFi jammer is a device that disrupts or blocks wireless signals on the WiFi frequency bands, effectively causing interference and preventing nearby devices from connecting to a WiFi network. These jammers operate by emitting radio frequency signals on the same frequencies used by WiFi networks, thereby overpowering or disrupting the signals from legitimate WiFi devices.
+A WiFi deauther is a type of tool or device used to perform deauthentication attacks on WiFi networks. These attacks involve sending deauthentication frames to one or more devices connected to a WiFi network, causing them to disconnect or lose their connection to the network temporarily.
 
 
 ## Table of Contents
@@ -31,15 +31,26 @@ A Wi-Fi jammer, on the other hand, disrupts entire Wi-Fi signals within its rang
 
 ## Usage
 
-1. Open your Wifi and should appear a host called "Pwed", the password is "deauther".
+1. Open your Wifi and should appear a host called "Pnwed", the password is "deauther".
 
 2. After connecting to the host open your broswer and tpye the IP.
 
-3. Now you have acess to the Jammer.
+3. Now you have acess to the Deauther.
 
 ## Modes of Attack
 
+1. Deauther mode:
+ 
+Attacks the select Wifi sending deauthentication packets. 
 
-## Links you may need
+2. Beacon mode:
+
+Creates Wifi host.
+
+3. Probe-request mode:
+
+Tets the select Wifi.
+
+## Link you may need
 
 nodemcu-flasher: <https://github.com/nodemcu/nodemcu-flasher>.
